@@ -893,3 +893,10 @@ border-radius: 50%;
 	-webkit-transform: scale(1);
 	transform: scale(1);
 }
+
+.verde{
+	background-color: rgb(114, 217, 89,40%);
+}
+.rojo{
+	background-color: rgb(252, 56, 72,50%);
+}
